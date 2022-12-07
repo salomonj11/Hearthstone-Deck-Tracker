@@ -34,7 +34,7 @@ The app:
   - Cards left in your deck or cards drawn from your deck.
   - Your handcount, deckcount and draw chances.
   - Cards played by your opponent.
-  - Your opponent's handcount, deckcount and probablities of him having/drawing cards.
+  - Your opponent's handcount, deckcount and probabilities of him having/drawing cards.
   - How long your opponent had each card in his hand and what cards have been mulliganed, stolen or returned.  
 - **Timer** for the current turn and total time spent for you and your opponent.  
 - The tracker tries to **automatically select the deck you are playing**.  
